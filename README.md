@@ -6,6 +6,7 @@ A curated list of links to local data repositories to inspire data driven projec
 | [Lancaster University Datasets Portal](http://www.research.lancs.ac.uk/portal/en/datasets/search.html?search=lancaster&uri=) |
 | [Gov.UK Open Data Repository](https://data.gov.uk/search?q=Lancaster) |
 | [Lancashire County Council Open Data Portal](https://lis.lancashire.gov.uk/?page=1&keywords=&category=&dataprovider=&format=&date=) |
+| [Consumer Data Research Centre](https://data.cdrc.ac.uk/dataset?q=lancaster&sort=score+desc%2C+metadata_modified+desc)|
 
 | Existing Data Driven Projects |
 | ------------- |
