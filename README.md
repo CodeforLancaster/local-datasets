@@ -11,4 +11,4 @@ A curated list of links to local (and national but location-queryable) data repo
 
 | Existing Data Driven Projects |
 | ------------- |
-| [Lancaster County Council LSOA Data Explorer](http://dashboards.instantatlas.com/viewer/report?appid=40cb24a7767648ad989902947f2cbae2&authid=8SEcten4hkiVezMy)|
+| [Lancashire County Council LSOA Data Explorer](http://dashboards.instantatlas.com/viewer/report?appid=40cb24a7767648ad989902947f2cbae2&authid=8SEcten4hkiVezMy)|
