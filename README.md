@@ -1,5 +1,5 @@
 # Local Datasets
-A curated list of links to local data repositories to inspire data driven projects
+A curated list of links to local (and national but location-queryable) data repositories to inspire data driven projects
 
 | Data Repositories  | 
 | ------------- |
