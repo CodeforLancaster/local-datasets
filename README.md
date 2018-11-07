@@ -8,6 +8,7 @@ A curated list of links to local (and national but location-queryable) data repo
 | [Lancashire County Council Open Data Portal](https://lis.lancashire.gov.uk/?page=1&keywords=&category=&dataprovider=&format=&date=) |
 | [Consumer Data Research Centre](https://data.cdrc.ac.uk/dataset?q=lancaster&sort=score+desc%2C+metadata_modified+desc)|
 | [Traveline Data](http://www.travelinedata.org.uk/)|
+| [TransportAPI](https://www.transportapi.com/)|
 
 | APIs | 
 | ------------- |
